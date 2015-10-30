@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+}
+
+#calculator{
+  width: 600px;
+}
+
+#calculator > div {
+  padding: 0;
+  margin:0;
+}
+
+#display {
+  width:600px;
+  font-size: 30px;
+  border: 1px solid black;
+}
+
+.btn {
+  display: inline-block;
+  width: 130px;
+  height: 130px;
+  border: 1px solid black;
+  cursor: pointer;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#zero {
+  width:296px;
+}
