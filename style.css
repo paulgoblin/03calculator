@@ -14,6 +14,7 @@ body {
 #display {
   width:600px;
   font-size: 30px;
+  text-align: right;
   border: 1px solid black;
 }
 
